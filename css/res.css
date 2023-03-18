@@ -1,6 +1,7 @@
 @media only screen and (max-width:768px) {
    
 .header{
+    width: 100%;
     background-image: url(/img/d3.jpg);
 } 
 .nav__bar a{
@@ -71,7 +72,9 @@ font-size: 2.2rem;
 
 }
 @media only screen and (max-width:368px) {
-    
+  .shortcode .title h2{
+    font-size: 2.2rem;
+  }  
 .work__content{
     display: grid;
     grid-template-columns: 100%;
