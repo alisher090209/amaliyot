@@ -37,7 +37,7 @@ img{
 .header{
     width: 100%;
     height: 100vh;
-    padding: 20px;
+    padding: 20px 0;
     background-image: url(/img/slider1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -85,7 +85,7 @@ img{
 }
 .ipsum{
     width: 100%;
-    padding: 2.8rem;
+    padding: 2.8rem 0;
     background-color: #B52F3C;
 }
 .ipsum__content{
@@ -105,7 +105,7 @@ img{
 }
 .class__img{
     width: 100%;
-    padding: 2.8rem;
+    padding: 2.8rem 0;
 }
 .class__item .img img{
     border-radius: 20px;
@@ -143,7 +143,7 @@ font-size: 2.2rem;
 }
 .shortcode{
 width: 100%;
-padding: 4.8rem;
+padding: 4.8rem 0;
 }
 .shortcode__content{
     display: grid;
@@ -152,7 +152,7 @@ padding: 4.8rem;
 }
 .contact__us{
     width: 100%;
-    padding: 2.8rem;
+    padding: 2.8rem 0;
     background-color: #B52F3C;
 }
 .contact__content{
@@ -208,7 +208,7 @@ padding: 4.8rem;
 }
 .footer{
     width: 100%;
-    padding: 2.8rem;
+    padding: 2.8rem 0;
     background-color: #292929;
 }
 .footer__content{
@@ -250,7 +250,7 @@ padding: 4.8rem;
 .Copyright{
     width: 100%;
     height: 50px;
-    padding: 15px;
+    padding: 15px 0;
     text-align: center;
     background-color: #000;
 }
